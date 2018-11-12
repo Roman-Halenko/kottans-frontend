@@ -5,3 +5,6 @@ This knowledge helped me fill in some of the gaps and add confidence to the comm
 
 ## Git Collaboration [Collaboration screenshot](task_git_collaboration/GitHub-Collaboration.png) | [Version Control screenshot](task_git_collaboration/Version-Control-with-Git.png)
 In that courses i've reopened some Git commands and concepts, which helps me understand how i exactly interact with remote repositories. Understanding, how to staying up to date with forked repository, was also important for me.
+
+## Intro to HTML and CSS [Screenshot-1](task_git_html_css_intro/Intro-to-HTML-and-CSS.png) | [Screenshot-2](task_git_html_css_intro/HTML-Academy.png)
+I've finished the courses "HTML Academy" before started that task, so its nothing new for me. Just refreshed a memory :)
