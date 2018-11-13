@@ -8,3 +8,6 @@ In that courses i've reopened some Git commands and concepts, which helps me und
 
 ## Intro to HTML and CSS [Screenshot-1](task_git_html_css_intro/Intro-to-HTML-and-CSS.png) | [Screenshot-2](task_git_html_css_intro/HTML-Academy.png)
 I've finished the courses "HTML Academy" before started that task, so its nothing new for me. Just refreshed a memory :)
+
+## Responsive Web Design [Flexbox-Froggy](task_responsive_web_design/Flexbox-Froggy.png) | [Responsive-Web](task_responsive_web_design/Responsive-Web-Design-Fundamentals.png)
+Flexbox-Froggy - pretty nice flexbox challenge :) I'm already use flexbox, breakpoints, and media queries to get the best experience of responsive web design. Finishing this Task helped me find more strong ties between each of element of responsive web fundamentals.
