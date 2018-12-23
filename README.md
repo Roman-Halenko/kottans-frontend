@@ -11,3 +11,9 @@ I've finished the courses "HTML Academy" before started that task, so its nothin
 
 ## Responsive Web Design [Flexbox-Froggy](task_responsive_web_design/Flexbox-Froggy.png) | [Responsive-Web](task_responsive_web_design/Responsive-Web-Design-Fundamentals.png)
 Flexbox-Froggy - pretty nice flexbox challenge :) I'm already use flexbox, breakpoints, and media queries to get the best experience of responsive web design. Finishing this Task helped me find more strong ties between each of element of responsive web fundamentals.
+
+## JS Basics [Js intro](task-js-basics/Intro-to-JavaScript.png) | [Algorithm scripting](task-js-basics/intermediate-algorithm-scripting.png)
+It's getting harder a bit :) My knowledge base from the previous studying still helps me not to lost in that forest of new info. Special accent i've pointed at arrays and objects.
+
+## DOM [DOM Udacity](task-js-dom/DOM-Udacity.png) | [Algorithm scripting](task-js-basics/intermediate-algorithm-scripting.png)
+Wow! Just... wow! Finally, I've reached that state! From the first look at JavaScript, I've been waiting for a moment when I can manipulate web page with code, and now it's done! Elements, events... amazing!
