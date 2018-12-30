@@ -17,5 +17,5 @@ It's getting harder a bit :) My knowledge base from the previous studying still 
 
 ## DOM [DOM Udacity](task_js_dom/DOM-Udacity.png) | [Algorithm scripting](task_js_basics/intermediate-algorithm-scripting.png)
 Wow! Just... wow! Finally, I've reached that state! From the first look at JavaScript, I've been waiting for a moment when I can manipulate web page with code, and now it's done! Elements, events... amazing!
-Reviewed and approved by @IgorKurkov | [Code base](frontend-2019-homeworks/tree/master/submissions/Roman-Halenko/js-dom)
+#### Reviewed and approved by @IgorKurkov | [Code base](frontend-2019-homeworks/tree/master/submissions/Roman-Halenko/js-dom)
 Needed to improve my skills in accessing data in different ways. More about imperative and declarative ways. More attention to control event listeners (delegation, etc).
