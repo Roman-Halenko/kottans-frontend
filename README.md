@@ -19,3 +19,7 @@ It's getting harder a bit :) My knowledge base from the previous studying still 
 Wow! Just... wow! Finally, I've reached that state! From the first look at JavaScript, I've been waiting for a moment when I can manipulate web page with code, and now it's done! Elements, events... amazing!
 #### Reviewed and approved by @IgorKurkov | [Code base](https://github.com/Roman-Halenko/frontend-2019-homeworks/tree/master/submissions/Roman-Halenko/js-dom)
 Needed to improve my skills in accessing data in different ways. More about imperative and declarative ways. More attention to control event listeners (delegation, etc).
+
+## A Tiny JS World
+Since task not required OOP knowledge, it was not complicated. New important things: Operator "this", String Interpolation.
+#### Reviewed and approved by @OleksiyRudenko | [Code base](https://github.com/Roman-Halenko/a-tiny-JS-world/blob/populate-world/index.js)
