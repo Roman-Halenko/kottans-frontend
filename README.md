@@ -23,3 +23,8 @@ Needed to improve my skills in accessing data in different ways. More about impe
 ## A Tiny JS World
 Since task not required OOP knowledge, it was not complicated. New important things: Operator "this", String Interpolation.
 #### Reviewed and approved by @OleksiyRudenko | [Code base](https://github.com/Roman-Halenko/a-tiny-JS-world/blob/populate-world/index.js)
+
+## Object Oriented JS [CodeWars Profile](https://www.codewars.com/users/Roman-Halenko) | [Udacity JS OOP](task_js_oop/OOJS-Udacity.png)
+This task helped me understand the basics of OOP in Js. Needed more practice to take closer with Inheritance, Polymorphism, Abstraction, and Encapsulation.
+#### Reviewed and approved by @AMashoshyna | [Code base](https://github.com/Roman-Halenko/js-oop-frogger)
+To my surprise, the most important thing for me after all - is how comfortable to use OOP principles in Js.
