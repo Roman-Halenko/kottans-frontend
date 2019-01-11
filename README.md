@@ -28,3 +28,7 @@ Since task not required OOP knowledge, it was not complicated. New important thi
 This task helped me understand the basics of OOP in Js. Needed more practice to take closer with Inheritance, Polymorphism, Abstraction, and Encapsulation.
 #### Reviewed and approved by @AMashoshyna | [Code base](https://github.com/Roman-Halenko/js-oop-frogger)
 To my surprise, the most important thing for me after all - is how comfortable to use OOP principles in Js.
+
+## OOP Exercise
+ES6 features for OOP are pretty nice.
+#### Reviewed and approved by @OleksiyRudenko | [Code base](https://github.com/Roman-Halenko/a-tiny-JS-world/blob/populate-world/index.js)
