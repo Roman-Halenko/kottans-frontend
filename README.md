@@ -35,5 +35,5 @@ ES6 features for OOP are pretty nice.
 
 ## Memory Pair Game
 Learned cool animation trick. Came one step closer to full understanding of event delegation and Node / Element interfaces.
-Did not find a reason to use OOP knowledge for this task. 
-#### Reviewed and approved by @zonzujiro | [Code base](https://github.com/Roman-Halenko/memory-pair-game)
+Did not find a reason to use OOP knowledge for this task.
+#### Reviewed and approved by @zonzujiro | [Demo](https://roman-halenko.github.io/memory-pair-game/) | [Code base](https://github.com/Roman-Halenko/memory-pair-game)
