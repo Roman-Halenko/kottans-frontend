@@ -32,3 +32,8 @@ To my surprise, the most important thing for me after all - is how comfortable t
 ## OOP Exercise
 ES6 features for OOP are pretty nice.
 #### Reviewed and approved by @OleksiyRudenko | [Code base](https://github.com/Roman-Halenko/a-tiny-JS-world/blob/populate-world/index.js)
+
+## Memory Pair Game
+Learned cool animation trick. Came one step closer to full understanding of event delegation and Node / Element interfaces.
+Did not find a reason to use OOP knowledge for this task. 
+#### Reviewed and approved by @zonzujiro | [Code base](https://github.com/Roman-Halenko/memory-pair-game)
