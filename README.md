@@ -37,3 +37,7 @@ ES6 features for OOP are pretty nice.
 Learned cool animation trick. Came one step closer to full understanding of event delegation and Node / Element interfaces.
 Did not find a reason to use OOP knowledge for this task.
 #### Reviewed and approved by @zonzujiro | [Demo](https://roman-halenko.github.io/memory-pair-game/) | [Code base](https://github.com/Roman-Halenko/memory-pair-game)
+
+## Friends App
+This task impressed me with Array methods in action (filtering, searching, sort). Deeper learn 'fetch' and 'promises' needed.
+#### Reviewed and approved by @IgorKurkov | [Demo](https://roman-halenko.github.io/friends-app/) | [Code base](https://github.com/Roman-Halenko/friends-app)
