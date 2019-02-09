@@ -41,3 +41,7 @@ Did not find a reason to use OOP knowledge for this task.
 ## Friends App
 This task impressed me with Array methods in action (filtering, searching, sort). Deeper learn 'fetch' and 'promises' needed.
 #### Reviewed and approved by @IgorKurkov | [Demo](https://roman-halenko.github.io/friends-app/) | [Code base](https://github.com/Roman-Halenko/friends-app)
+
+## HTML & CSS practice: Google-style Popup
+Through this task completing i've learned cool css rule `-webkit-appearance`. Also refreshed memory with css trick `:checked ~` and, `li`'s has no tabulation.
+#### Reviewed and approved by @A-Ostrovnyy | [Demo](https://roman-halenko.github.io/html-css-popup/) | [Code base](https://github.com/Roman-Halenko/html-css-popup)
